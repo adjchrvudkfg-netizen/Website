@@ -1,0 +1,6 @@
+{
+  "name": "APKBridge Studio",
+  "description": "Extract Android APK source code, connect a website ZIP or web files via a native WebView JavaScript bridge, preview live, and rebuild a signed APK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
